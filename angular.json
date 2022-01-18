@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-repo"
+    }
+  },
+  "defaultProject": "test-repo",
+  "cli": {
+    "analytics": false
+  }
 }
